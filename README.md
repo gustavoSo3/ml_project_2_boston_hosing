@@ -4,7 +4,7 @@ If want to recreate just change the loaded data sets to the path you have them s
 
 ## We use 2 data sets
 
-* [Kaggle](https://www.kaggle.com/datasets/altavish/boston-housing-dataset){:target="_blank"}
-* [spData](https://jakubnowosad.com/spData/reference/boston.html){:target="_blank"}
+* [Kaggle](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)
+* [spData](https://jakubnowosad.com/spData/reference/boston.html)
 
 
