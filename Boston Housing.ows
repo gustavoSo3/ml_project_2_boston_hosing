@@ -12,91 +12,130 @@
 		<node id="8" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="Predictions" position="(605.6896551724136, 364.81609195402297)" />
 		<node id="9" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(479.6551724137931, 196.48275862068965)" />
 		<node id="10" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="BH_original_kaggle" position="(65.43224866440025, 64.03302574065077)" />
-		<node id="11" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Crime per capita target" position="(267.10011123470525, 772.4204671857619)" />
-		<node id="12" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1)" position="(801.875, 1296.875)" />
-		<node id="13" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1)" position="(920.875, 1296.875)" />
-		<node id="14" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="t&amp;s_crime_rate" position="(1135.4195158776547, 1126.8479203195009)" />
+		<node id="11" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Crime per capita target" position="(264.2429683775624, 735.2776100429047)" />
+		<node id="12" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(801.875, 1296.875)" />
+		<node id="13" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="all_variables" position="(920.875, 1301.4204545454545)" />
+		<node id="14" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="t&amp;s_crime_rate" position="(1135.419515877655, 1125.3327688043496)" />
 		<node id="15" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="predictions_crime_rate" position="(1135.512443989869, 902.9098723943102)" />
 		<node id="16" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Town N" position="(699.2887931034481, 1423.4612068965516)" />
-		<node id="17" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TRACT" position="(701.875, 1540.875)" />
+		<node id="17" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TRACT" position="(700.3598484848485, 1540.875)" />
 		<node id="18" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="LON" position="(701.875, 1657.4267241379312)" />
 		<node id="19" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="LAT" position="(701.875, 1780.875)" />
-		<node id="20" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="MEDV" position="(701.875, 1899.6628787878788)" />
-		<node id="21" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (1)" position="(803.875, 1423.875)" />
-		<node id="22" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (1)" position="(922.875, 1423.875)" />
-		<node id="23" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (2)" position="(799.875, 1540.875)" />
-		<node id="24" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (2)" position="(918.875, 1540.875)" />
-		<node id="25" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (3)" position="(802.875, 1656.875)" />
-		<node id="26" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (3)" position="(921.875, 1656.875)" />
-		<node id="27" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (4)" position="(804.875, 1781.875)" />
-		<node id="28" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (4)" position="(923.875, 1781.875)" />
-		<node id="29" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6)" position="(799.875, 1898.6628787878788)" />
-		<node id="30" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6)" position="(918.875, 1898.6628787878788)" />
-		<node id="31" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="ZN" position="(701.875, 2019.6628787878788)" />
-		<node id="32" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1)" position="(799.875, 2018.6628787878788)" />
-		<node id="33" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1)" position="(918.875, 2018.6628787878788)" />
+		<node id="20" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="MEDV" position="(700.3598484848484, 1899.662878787879)" />
+		<node id="21" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(803.875, 1423.875)" />
+		<node id="22" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Town N" position="(922.875, 1423.875)" />
+		<node id="23" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.875, 1540.875)" />
+		<node id="24" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="TRACT" position="(918.875, 1539.3598484848485)" />
+		<node id="25" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(802.875, 1656.875)" />
+		<node id="26" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="LON" position="(921.875, 1656.875)" />
+		<node id="27" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(804.875, 1781.875)" />
+		<node id="28" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="LAT" position="(923.875, 1781.875)" />
+		<node id="29" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.875, 1898.6628787878788)" />
+		<node id="30" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="MEDV" position="(918.875, 1898.6628787878788)" />
+		<node id="31" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="ZN" position="(701.8749999999999, 2016.6325757575758)" />
+		<node id="32" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.875, 2017.1477272727273)" />
+		<node id="33" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="ZN" position="(920.3901515151514, 2012.6022727272727)" />
 		<node id="34" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="INDUS" position="(699.2887931034481, 2125.474892136044)" />
 		<node id="35" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="CHAS" position="(701.8750000000002, 2242.8886852394917)" />
 		<node id="36" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="NOX" position="(701.8750000000002, 2359.440409377423)" />
 		<node id="37" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="RM" position="(701.8750000000002, 2482.8886852394917)" />
 		<node id="38" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="AGE" position="(701.8750000000002, 2602.8886852394917)" />
 		<node id="39" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="DIS" position="(701.8750000000002, 2722.8886852394917)" />
-		<node id="40" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (1) (1)" position="(803.8750000000002, 2125.8886852394917)" />
-		<node id="41" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (1) (1)" position="(922.8750000000002, 2125.8886852394917)" />
-		<node id="42" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (2) (1)" position="(799.8750000000002, 2242.8886852394917)" />
-		<node id="43" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (2) (1)" position="(918.875, 2241.499796350603)" />
-		<node id="44" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (3) (1)" position="(802.8750000000002, 2358.8886852394917)" />
-		<node id="45" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (3) (1)" position="(921.8750000000002, 2358.8886852394917)" />
-		<node id="46" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (4) (1)" position="(804.8750000000002, 2483.8886852394917)" />
-		<node id="47" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (4) (1)" position="(923.8750000000002, 2482.499796350603)" />
-		<node id="48" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (5) (1)" position="(801.8750000000002, 2605.8886852394917)" />
-		<node id="49" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (5) (1)" position="(920.8750000000002, 2605.8886852394917)" />
-		<node id="50" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (2)" position="(799.8750000000002, 2721.8886852394917)" />
+		<node id="40" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(803.8750000000002, 2125.8886852394917)" />
+		<node id="41" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="INDUS" position="(922.8750000000002, 2125.8886852394917)" />
+		<node id="42" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.8750000000002, 2244.4038367546436)" />
+		<node id="43" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="CHAS" position="(918.875, 2241.499796350603)" />
+		<node id="44" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(802.8750000000002, 2358.8886852394917)" />
+		<node id="45" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="NOX" position="(921.8750000000002, 2358.8886852394917)" />
+		<node id="46" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(804.8750000000002, 2483.8886852394917)" />
+		<node id="47" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="RM" position="(923.8750000000002, 2482.499796350603)" />
+		<node id="48" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(801.8750000000002, 2605.8886852394917)" />
+		<node id="49" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="AGE" position="(920.8750000000002, 2605.8886852394917)" />
+		<node id="50" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.8750000000002, 2721.8886852394917)" />
 		<node id="51" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (2)" position="(918.8750000000002, 2721.8886852394917)" />
 		<node id="52" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="RAD" position="(701.8750000000002, 2842.8886852394917)" />
-		<node id="53" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1) (1)" position="(799.8750000000002, 2841.8886852394917)" />
-		<node id="54" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1) (1)" position="(920.2083333333335, 2841.8886852394917)" />
+		<node id="53" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.8750000000002, 2841.8886852394917)" />
+		<node id="54" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="RAD" position="(920.2083333333335, 2841.8886852394917)" />
 		<node id="55" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TAX" position="(701.8750000000002, 2962.8886852394917)" />
-		<node id="56" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1) (1) (1)" position="(799.8750000000002, 2961.8886852394917)" />
-		<node id="57" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1) (1) (1)" position="(918.8750000000002, 2961.8886852394917)" />
+		<node id="56" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.8750000000002, 2961.8886852394917)" />
+		<node id="57" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="TAX" position="(918.8750000000002, 2961.8886852394917)" />
 		<node id="58" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="PTRATIO" position="(703.2638888888894, 3075.3886852394917)" />
-		<node id="59" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1) (1) (2)" position="(801.2638888888894, 3074.3886852394917)" />
-		<node id="60" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1) (1) (2)" position="(920.2638888888894, 3074.3886852394917)" />
+		<node id="59" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(801.2638888888894, 3074.3886852394917)" />
+		<node id="60" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="PTRATIO" position="(920.2638888888894, 3074.3886852394917)" />
 		<node id="61" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="B" position="(703.2638888888894, 3195.3886852394917)" />
-		<node id="62" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1) (1) (1) (1)" position="(801.2638888888894, 3194.3886852394917)" />
-		<node id="63" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1) (1) (1) (1)" position="(920.2638888888894, 3194.3886852394917)" />
+		<node id="62" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(801.2638888888894, 3194.3886852394917)" />
+		<node id="63" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="B" position="(920.2638888888894, 3194.3886852394917)" />
 		<node id="64" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="LSTAT" position="(701.3888888888891, 3317.28787878788)" />
-		<node id="65" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1) (1) (1) (2)" position="(799.3888888888891, 3316.28787878788)" />
-		<node id="66" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1) (1) (1) (2)" position="(918.3888888888891, 3316.28787878788)" />
+		<node id="65" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(799.3888888888891, 3316.28787878788)" />
+		<node id="66" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="LSTAT" position="(918.3888888888891, 3316.28787878788)" />
 		<node id="67" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="CMEDV" position="(702.7777777777783, 3429.78787878788)" />
-		<node id="68" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (6) (1) (1) (2) (1)" position="(800.7777777777783, 3428.78787878788)" />
-		<node id="69" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (1) (6) (1) (1) (2) (1)" position="(919.7777777777783, 3428.78787878788)" />
-		<node id="70" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (1)" position="(1148.1428571428569, 1424.2857142857144)" />
-		<node id="71" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2)" position="(1145.285714285714, 1540.0000000000005)" />
-		<node id="72" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (1)" position="(1145.285714285714, 1660.0000000000005)" />
-		<node id="73" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (2)" position="(1145.285714285714, 1780.0000000000005)" />
-		<node id="74" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (4)" position="(1145.285714285714, 1898.7878787878792)" />
-		<node id="75" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (5)" position="(1145.285714285714, 2018.7878787878792)" />
-		<node id="76" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (6)" position="(1145.2857142857138, 2124.9947753396036)" />
-		<node id="77" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (7)" position="(1145.285714285714, 2239.8223615465004)" />
-		<node id="78" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (8)" position="(1145.285714285714, 2356.3740856844315)" />
-		<node id="79" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (9)" position="(1145.2857142857142, 2478.098223615465)" />
-		<node id="80" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (10)" position="(1145.2857142857138, 2598.098223615465)" />
+		<node id="68" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(800.7777777777783, 3428.78787878788)" />
+		<node id="69" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="CMEDV" position="(919.7777777777783, 3428.78787878788)" />
+		<node id="70" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Town N" position="(1148.1428571428569, 1424.2857142857144)" />
+		<node id="71" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="TRACT" position="(1145.285714285714, 1540.0000000000005)" />
+		<node id="72" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="LON" position="(1145.285714285714, 1660.0000000000005)" />
+		<node id="73" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="LAT" position="(1145.285714285714, 1780.0000000000005)" />
+		<node id="74" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="MEDV" position="(1145.285714285714, 1898.7878787878792)" />
+		<node id="75" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="ZN" position="(1145.2857142857138, 2008.1818181818182)" />
+		<node id="76" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="INDUS" position="(1143.7705627705623, 2124.9947753396036)" />
+		<node id="77" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="CHAS" position="(1145.285714285714, 2239.8223615465004)" />
+		<node id="78" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="NOX" position="(1145.285714285714, 2356.3740856844315)" />
+		<node id="79" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="RM" position="(1145.2857142857142, 2478.098223615465)" />
+		<node id="80" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="AGE" position="(1145.2857142857138, 2598.098223615465)" />
 		<node id="81" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (11)" position="(1143.5615763546796, 2712.9258098223618)" />
-		<node id="82" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (12)" position="(1143.5615763546798, 2848.4430512016734)" />
-		<node id="83" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (13)" position="(1145.285714285714, 2959.8223615464995)" />
-		<node id="84" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (14)" position="(1145.285714285714, 3071.2016718913274)" />
-		<node id="85" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (15)" position="(1145.285714285714, 3191.2016718913274)" />
-		<node id="86" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (16)" position="(1147.0098522167482, 3300.856844305121)" />
-		<node id="87" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (2) (17)" position="(1143.1034482758619, 3430.5120167189143)" />
+		<node id="82" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="RAD" position="(1143.5615763546798, 2848.4430512016734)" />
+		<node id="83" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="TAX" position="(1145.285714285714, 2959.8223615464995)" />
+		<node id="84" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="PTRATIO" position="(1145.285714285714, 3071.2016718913274)" />
+		<node id="85" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="B" position="(1145.285714285714, 3191.2016718913274)" />
+		<node id="86" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="LSTAT" position="(1143.9795491864452, 3317.5235109717883)" />
+		<node id="87" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="CMEDV" position="(1143.1034482758619, 3430.5120167189143)" />
 		<node id="88" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="CRIMxTRACT" position="(780.9574468085104, 996.8794326241139)" />
 		<node id="89" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="CRIMxRAD" position="(778.2907801418435, 1092.8794326241134)" />
 		<node id="90" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="CRIMxTAX" position="(778.2907801418435, 1187.5460992907801)" />
-		<node id="91" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (1) (1)" position="(1142.8095238095234, 1294.9523809523812)" />
-		<node id="92" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(803.3404255319148, 536.1702127659576)" />
-		<node id="93" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="Linear Regression (2)" position="(1022.489361702128, 570.2127659574467)" />
-		<node id="94" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="Test and Score (3)" position="(1156.531914893617, 538.2978723404252)" />
-		<node id="95" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="Data Sampler (1) (1) (2)" position="(908.130319148936, 569.4069148936169)" />
+		<node id="91" name="Test and Score" qualified_name="Orange.widgets.evaluate.owtestandscore.OWTestAndScore" project_name="Orange3" version="" title="all_variables" position="(1142.8095238095234, 1294.9523809523812)" />
+		<node id="92" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TOWN N x DIS x TRACT" position="(1479.3437015351906, 553.5739801697249)" />
+		<node id="93" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="TOWN N x DIS x TRACT" position="(1698.492637705404, 554.283200027881)" />
+		<node id="94" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1581.103292121909, 553.4773489640507)" />
+		<node id="95" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="INDUS x TAX" position="(1482.4049260249863, 934.8603128846291)" />
+		<node id="96" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="INDUS x TAX" position="(1706.0993167406546, 935.5695327427854)" />
+		<node id="97" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1588.7099711571595, 934.7636816789552)" />
+		<node id="98" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="AGE x CMEDV" position="(1482.0948035233746, 1045.4533979910127)" />
+		<node id="99" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="AGE x CMEDV" position="(1705.789194239043, 1044.647466334017)" />
+		<node id="100" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1588.3998486555479, 1043.8416152701873)" />
+		<node id="101" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot (1)" position="(377.96969696969694, 607.5757575757576)" />
+		<node id="102" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="predictions_crime_rate" position="(1859.0729246932071, 457.3822854381516)" />
+		<node id="103" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="" position="(1306.510204081633, 463.26530612244903)" />
+		<node id="104" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TOWN N x DIS x TAX" position="(1479.3437015351906, 673.5739801697249)" />
+		<node id="105" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="TOWN N x DIS x TAX" position="(1698.492637705404, 674.283200027881)" />
+		<node id="106" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1581.103292121909, 673.4773489640507)" />
+		<node id="107" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="AGE x TAX" position="(1480.8448035233746, 1165.453397991013)" />
+		<node id="108" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="AGE x TAX" position="(1705.789194239043, 1164.647466334017)" />
+		<node id="109" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1588.3998486555479, 1163.8416152701873)" />
+		<node id="110" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="TOWN N x AGE x ZN x RM" position="(1696.4518213788735, 791.221975538085)" />
+		<node id="111" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1579.0624757953785, 790.4161244742547)" />
+		<node id="112" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TOWN N x AGE x ZN x RM" position="(1477.3028852086602, 790.5127556799291)" />
+		<node id="113" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="TOWN N x DIS x TAX x TRACT x AGE" position="(1704.742637705404, 1283.0332000278809)" />
+		<node id="114" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1586.103292121909, 1282.2273489640506)" />
+		<node id="115" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="TOWN N x DIS x TAX x TRACT x AGE" position="(1485.5937015351906, 1282.323980169725)" />
+		<node id="116" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (3)" position="(1331.0, 1537.1428571428573)" />
+		<node id="117" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="- CHAS" position="(1483.1532253447144, 1718.9708055665503)" />
+		<node id="118" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="- CHAS" position="(1702.3021615149278, 1719.6800254247062)" />
+		<node id="119" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1584.9128159314328, 1718.874174360876)" />
+		<node id="120" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="predictions_crime_rate" position="(1850.184035804318, 1545.0013330571992)" />
+		<node id="121" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1520.9226190476186, 1618.4623015873015)" />
+		<node id="122" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="all_variables" position="(1647.8591269841265, 1618.245851370851)" />
+		<node id="123" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="- CHAS, LON" position="(1483.1532253447144, 1838.9708055665503)" />
+		<node id="124" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="- CHAS, LON" position="(1702.3021615149278, 1839.6800254247062)" />
+		<node id="125" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1584.9128159314328, 1838.874174360876)" />
+		<node id="126" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="- CHAS, LON, LAT" position="(1483.1532253447144, 1958.9708055665503)" />
+		<node id="127" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="- CHAS, LON, LAT" position="(1702.3021615149278, 1959.6800254247062)" />
+		<node id="128" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1584.9128159314328, 1958.874174360876)" />
+		<node id="129" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="- CHAS, LON, LAT, ZN" position="(1483.1532253447144, 2078.9708055665506)" />
+		<node id="130" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="- CHAS, LON, LAT, ZN" position="(1702.3021615149278, 2079.6800254247064)" />
+		<node id="131" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1584.9128159314328, 2078.874174360876)" />
+		<node id="132" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="- CHAS, LON, LAT, ZN, RM" position="(1483.1532253447144, 2198.9708055665506)" />
+		<node id="133" name="Linear Regression" qualified_name="Orange.widgets.model.owlinearregression.OWLinearRegression" project_name="Orange3" version="" title="- CHAS, LON, LAT, ZN, RM" position="(1702.3021615149278, 2199.6800254247064)" />
+		<node id="134" name="Data Sampler" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" project_name="Orange3" version="" title="70%" position="(1584.9128159314328, 2198.874174360876)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="0" sink_node_id="2" source_channel="Selected Data" sink_channel="Data" enabled="true" />
@@ -248,11 +287,62 @@
 		<link id="146" source_node_id="11" sink_node_id="90" source_channel="Data" sink_channel="Data" enabled="true" />
 		<link id="147" source_node_id="13" sink_node_id="91" source_channel="Learner" sink_channel="Learner" enabled="true" />
 		<link id="148" source_node_id="12" sink_node_id="91" source_channel="Data Sample" sink_channel="Data" enabled="true" />
-		<link id="149" source_node_id="11" sink_node_id="92" source_channel="Data" sink_channel="Data" enabled="true" />
-		<link id="150" source_node_id="93" sink_node_id="94" source_channel="Learner" sink_channel="Learner" enabled="true" />
-		<link id="151" source_node_id="92" sink_node_id="95" source_channel="Data" sink_channel="Data" enabled="true" />
-		<link id="152" source_node_id="95" sink_node_id="93" source_channel="Data Sample" sink_channel="Data" enabled="true" />
-		<link id="153" source_node_id="92" sink_node_id="94" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="149" source_node_id="92" sink_node_id="94" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="150" source_node_id="94" sink_node_id="93" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="151" source_node_id="95" sink_node_id="97" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="152" source_node_id="97" sink_node_id="96" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="153" source_node_id="98" sink_node_id="100" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="154" source_node_id="100" sink_node_id="99" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="155" source_node_id="11" sink_node_id="101" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="156" source_node_id="99" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="157" source_node_id="96" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="158" source_node_id="93" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="159" source_node_id="11" sink_node_id="103" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="160" source_node_id="103" sink_node_id="92" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="161" source_node_id="103" sink_node_id="98" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="162" source_node_id="103" sink_node_id="95" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="163" source_node_id="103" sink_node_id="102" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="164" source_node_id="104" sink_node_id="106" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="165" source_node_id="106" sink_node_id="105" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="166" source_node_id="103" sink_node_id="104" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="167" source_node_id="105" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="168" source_node_id="107" sink_node_id="109" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="169" source_node_id="109" sink_node_id="108" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="170" source_node_id="112" sink_node_id="111" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="171" source_node_id="111" sink_node_id="110" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="172" source_node_id="103" sink_node_id="112" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="173" source_node_id="103" sink_node_id="107" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="174" source_node_id="108" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="175" source_node_id="110" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="176" source_node_id="115" sink_node_id="114" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="177" source_node_id="114" sink_node_id="113" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="178" source_node_id="103" sink_node_id="115" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="179" source_node_id="113" sink_node_id="102" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="180" source_node_id="11" sink_node_id="116" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="181" source_node_id="117" sink_node_id="119" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="182" source_node_id="119" sink_node_id="118" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="183" source_node_id="118" sink_node_id="120" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="184" source_node_id="116" sink_node_id="117" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="185" source_node_id="116" sink_node_id="120" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="186" source_node_id="121" sink_node_id="122" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="187" source_node_id="116" sink_node_id="121" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="188" source_node_id="122" sink_node_id="120" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="189" source_node_id="123" sink_node_id="125" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="190" source_node_id="125" sink_node_id="124" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="191" source_node_id="116" sink_node_id="123" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="192" source_node_id="124" sink_node_id="120" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="193" source_node_id="126" sink_node_id="128" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="194" source_node_id="128" sink_node_id="127" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="195" source_node_id="116" sink_node_id="126" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="196" source_node_id="127" sink_node_id="120" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="197" source_node_id="129" sink_node_id="131" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="198" source_node_id="131" sink_node_id="130" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="199" source_node_id="116" sink_node_id="129" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="200" source_node_id="132" sink_node_id="134" source_channel="Data" sink_channel="Data" enabled="true" />
+		<link id="201" source_node_id="134" sink_node_id="133" source_channel="Data Sample" sink_channel="Data" enabled="true" />
+		<link id="202" source_node_id="116" sink_node_id="132" source_channel="Selected Data" sink_channel="Data" enabled="true" />
+		<link id="203" source_node_id="133" sink_node_id="120" source_channel="Model" sink_channel="Predictors" enabled="true" />
+		<link id="204" source_node_id="130" sink_node_id="120" source_channel="Model" sink_channel="Predictors" enabled="true" />
 	</links>
 	<annotations />
 	<thumbnail />
@@ -1338,29 +1428,258 @@ YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
 bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
 lIwETUVEVpRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAVJTkRVU5RLAoaUaBVLBIaUjARDSEFT
 lEsBhpRoFUsFhpSMA05PWJRLAoaUaBVLBoaUjAJSTZRLAoaUaBVLB4aUjANBR0WUSwKGlGgVSwiG
-lIwDRElTlEsChpRoFUsJhpSMA1RBWJRLAoaUaBVLCoaUjAdQVFJBVElPlEsChpRoFUsLhpSMAUKU
-SwKGlGgVSwyGlIwFTFNUQVSUSwKGlGgVSw2GlIwFQ01FRFaUSwKGlGgVSw6GlIwGVG93biBOlEsC
-hpSMCWF0dHJpYnV0ZZRLAIaUjAVUUkFDVJRLAoaUaENLAYaUjANSQUSUSwKGlGhDSwKGlIwEQ1JJ
+lIwDVEFYlEsChpRoFUsJhpSMB1BUUkFUSU+USwKGlGgVSwqGlIwBQpRLAoaUaBVLC4aUjAVMU1RB
+VJRLAoaUaBVLDIaUjAVDTUVEVpRLAoaUaBVLDYaUjANSQUSUSwKGlGgVSw6GlIwGVG93biBOlEsC
+hpSMCWF0dHJpYnV0ZZRLAIaUjANESVOUSwKGlGhDSwGGlIwFVFJBQ1SUSwKGlGhDSwKGlIwEQ1JJ
 TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
-dHJpYnV0ZXOUfZQoaEVLAmgTSwJoF0sCaBpLAmgdSwJoIEsCaCNLAWgmSwJoKUsCaCxLAmgvSwJo
-SEsCaDJLAmg1SwJoOEsCaDtLAmg+SwJoS0sCdYwFbWV0YXOUfZQoaE9LA2hBSwJ1dWJhdS4=
+dHJpYnV0ZXOUfZQoaEhLAmgTSwJoF0sCaBpLAmgdSwJoIEsCaCNLAWgmSwJoKUsCaCxLAmhFSwJo
+PksCaC9LAmgySwJoNUsCaDhLAmg7SwJoS0sCdYwFbWV0YXOUfZQoaE9LA2hBSwJ1dWJhdS4=
 </properties>
-		<properties node_id="93" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'RADxTRACTxTOWN', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
-		<properties node_id="94" format="pickle">gASVsgIAAAAAAAB9lCiMFGNvbXBhcmlzb25fY3JpdGVyaW9ulEsAjBJjb250cm9sQXJlYVZpc2li
-bGWUiIwNY3Zfc3RyYXRpZmllZJSIjAduX2ZvbGRzlEsCjAluX3JlcGVhdHOUSwOMCnJlc2FtcGxp
-bmeUSwKMBHJvcGWURz+5mZmZmZmajAtzYW1wbGVfc2l6ZZRLCowTc2F2ZWRXaWRnZXRHZW9tZXRy
-eZRDQgHZ0MsAAwAAAAAB8AAAAQoAAAT7AAADGQAAAfAAAAEmAAAE+wAAAxkAAAAAAAAAAAcAAAAB
-8AAAASYAAAT7AAADGZSMEnNodWZmbGVfc3RyYXRpZmllZJSIjAh1c2Vfcm9wZZSJjAtzY29yZV90
-YWJsZZR9lIwMc2hvd25fc2NvcmVzlI+UKIwCUjKUjAZSZWNhbGyUjANNQUWUjARSTVNFlIwCQ0GU
-jANNU0WUjAdDLUluZGV4lIwJUHJlY2lzaW9ulIwDQVVDlIwCRjGUkHOMC19fdmVyc2lvbl9flEsD
-jBBjb250ZXh0X3NldHRpbmdzlF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOU
-KYGUfZQojAZ2YWx1ZXOUfZQojA9jbGFzc19zZWxlY3Rpb26UjCEoTm9uZSwgc2hvdyBhdmVyYWdl
-IG92ZXIgY2xhc3NlcymUSv////+GlIwMZm9sZF9mZWF0dXJllE5K/v///4aUjBVmb2xkX2ZlYXR1
-cmVfc2VsZWN0ZWSUiUr+////hpRoDX2UaBtLA3WMCmF0dHJpYnV0ZXOUjAZUb3duIE6USwKGlIwF
-VFJBQ1SUSwKGlIwDUkFElEsChpSHlIwFbWV0YXOUjARUT1dOlEsDhpSFlIwKY2xhc3NfdmFyc5SM
-BENSSU2USwKGlIWUdWJhdS4=
+		<properties node_id="93" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'TOWN N x DIS x TRACT', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="94" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="95" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAokAAACr
+AAAE4AAAAx4AAAKJAAAAxwAABOAAAAMeAAAAAAAAAAAHAAAAAokAAADHAAAE4AAAAx6UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
+lIwETUVEVpRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjARDSEFTlEsBhpRoFUsEhpSMA05PWJRL
+AoaUaBVLBYaUjAJSTZRLAoaUaBVLBoaUjANBR0WUSwKGlGgVSweGlIwHUFRSQVRJT5RLAoaUaBVL
+CIaUjAFClEsChpRoFUsJhpSMBUxTVEFUlEsChpRoFUsKhpSMBUNNRURWlEsChpRoFUsLhpSMBVRS
+QUNUlEsChpRoFUsMhpSMA1JBRJRLAoaUaBVLDYaUjAZUb3duIE6USwKGlGgVSw6GlIwDRElTlEsC
+hpRoFUsPhpSMBUlORFVTlEsChpSMCWF0dHJpYnV0ZZRLAIaUjANUQViUSwKGlGhGSwGGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaC9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
 </properties>
-		<properties node_id="95" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="96" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'INDUS x TAX', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x0c\x00\x00\x01Y\x00\x00\x03\x87\x00\x00\x03\x05\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\x0c\x00\x00\x01u\x00\x00\x03\x87\x00\x00\x03\x05', '__version__': 1}</properties>
+		<properties node_id="97" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="98" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAokAAACs
+AAAE4AAAAx8AAAKJAAAAyAAABOAAAAMfAAAAAAAAAAAHAAAAAokAAADIAAAE4AAAAx+UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
+lIwETUVEVpRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAVJTkRVU5RLAoaUaBVLBIaUjARDSEFT
+lEsBhpRoFUsFhpSMA05PWJRLAoaUaBVLBoaUjAJSTZRLAoaUaBVLB4aUjANESVOUSwKGlGgVSwiG
+lIwDVEFYlEsChpRoFUsJhpSMB1BUUkFUSU+USwKGlGgVSwqGlIwBQpRLAoaUaBVLC4aUjAVMU1RB
+VJRLAoaUaBVLDIaUjAVUUkFDVJRLAoaUaBVLDYaUjANSQUSUSwKGlGgVSw6GlIwGVG93biBOlEsC
+hpRoFUsPhpSMA0FHRZRLAoaUjAlhdHRyaWJ1dGWUSwCGlIwFQ01FRFaUSwKGlGhGSwGGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaDVLAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="99" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'AGE x CMEDV', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="100" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="101" format="pickle">gASVLAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
+VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAELAAAA4QAABXYAAAPA
+AAABCwAAAP0AAAV2AAADwAAAAAAAAAAABwAAAAELAAAA/QAABXYAAAPAlIwJc2VsZWN0aW9ulE6M
+EXRvb2x0aXBfc2hvd3NfYWxslIiMD3Zpc3VhbF9zZXR0aW5nc5R9lIwFZ3JhcGiUfZQojAthbHBo
+YV92YWx1ZZRLgIwNY2xhc3NfZGVuc2l0eZSJjBFqaXR0ZXJfY29udGludW91c5SJjAtqaXR0ZXJf
+c2l6ZZRLAIwTbGFiZWxfb25seV9zZWxlY3RlZJSJjBZvcnRob25vcm1hbF9yZWdyZXNzaW9ulImM
+C3BvaW50X3dpZHRolEsKjAlzaG93X2dyaWSUiYwLc2hvd19sZWdlbmSUiIwNc2hvd19yZWdfbGlu
+ZZSJdYwLX192ZXJzaW9uX1+USwWMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5z
+ZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMCmF0dHJfY29sb3KUjARDUklN
+lEtmhpSMCmF0dHJfbGFiZWyUTkr+////hpSMCmF0dHJfc2hhcGWUTkr+////hpSMCWF0dHJfc2l6
+ZZROSv7///+GlIwGYXR0cl94lIwEQ0hBU5RLZYaUjAZhdHRyX3mUjANOT1iUS2aGlGgKfZRoFksF
+dYwKYXR0cmlidXRlc5R9lCiMBVRSQUNUlEsCjANMT06USwKMA0xBVJRLAowETUVEVpRLAowCWk6U
+SwKMBUlORFVTlEsCaCpLAWgtSwKMAlJNlEsCjANBR0WUSwKMA0RJU5RLAowDUkFElEsCjANUQViU
+SwKMB1BUUkFUSU+USwKMAUKUSwKMBUxTVEFUlEsCjAVDTUVEVpRLAmghSwJ1jAVtZXRhc5R9lCiM
+BFRPV06USwOMBlRvd24gTpRLAnV1YmF1Lg==
+</properties>
+		<properties node_id="102" format="pickle">gASVJgEAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5
+lENCAdnQywADAAAAAAQTAAAAcgAABpAAAAQLAAAEEwAAAI4AAAaQAAAECwAAAAAAAAAABwAAAAQT
+AAAAjgAABpAAAAQLlIwJc2VsZWN0aW9ulF2USwdhjAtzaG93X3Njb3Jlc5SIjAtzY29yZV90YWJs
+ZZR9lIwMc2hvd25fc2NvcmVzlI+UKIwCUjKUjANNQUWUjARSTVNFlIwCQ0GUjANNU0WUjAdDLUlu
+ZGV4lIwDQVVDlIwJUHJlY2lzaW9ulIwGUmVjYWxslIwCRjGUkHOMC19fdmVyc2lvbl9flEsBjBBj
+b250ZXh0X3NldHRpbmdzlF2UdS4=
+</properties>
+		<properties node_id="103" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x8b\x00\x00\x00e\x00\x00\x05\xd4\x00\x00\x03\x99\x00\x00\x02\x8b\x00\x00\x00\x81\x00\x00\x05\xd4\x00\x00\x03\x99\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x02\x8b\x00\x00\x00\x81\x00\x00\x05\xd4\x00\x00\x03\x99', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+		<properties node_id="104" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAA/wAAACQ
+AAAGUwAAAwMAAAP8AAAArAAABlMAAAMDAAAAAAAAAAAHAAAAA/wAAACsAAAGUwAAAwOUjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
+lIwETUVEVpRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAVJTkRVU5RLAoaUaBVLBIaUjARDSEFT
+lEsBhpRoFUsFhpSMA05PWJRLAoaUaBVLBoaUjAJSTZRLAoaUaBVLB4aUjANBR0WUSwKGlGgVSwiG
+lIwHUFRSQVRJT5RLAoaUaBVLCYaUjAFClEsChpRoFUsKhpSMBUxTVEFUlEsChpRoFUsLhpSMBUNN
+RURWlEsChpRoFUsMhpSMA1JBRJRLAoaUaBVLDYaUjAVUUkFDVJRLAoaUaBVLDoaUjAZUb3duIE6U
+SwKGlIwJYXR0cmlidXRllEsAhpSMA0RJU5RLAoaUaENLAYaUjANUQViUSwKGlGhDSwKGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaDJLAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="105" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'TOWN N x DIS x TAX', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="106" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="107" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAA7MAAACb
+AAAGCgAAAw4AAAOzAAAAtwAABgoAAAMOAAAAAAAAAAAHAAAAA7MAAAC3AAAGCgAAAw6UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
+lIwETUVEVpRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAVJTkRVU5RLAoaUaBVLBIaUjARDSEFT
+lEsBhpRoFUsFhpSMA05PWJRLAoaUaBVLBoaUjAJSTZRLAoaUaBVLB4aUjANESVOUSwKGlGgVSwiG
+lIwHUFRSQVRJT5RLAoaUaBVLCYaUjAFClEsChpRoFUsKhpSMBUxTVEFUlEsChpRoFUsLhpSMBVRS
+QUNUlEsChpRoFUsMhpSMA1JBRJRLAoaUaBVLDYaUjAZUb3duIE6USwKGlGgVSw6GlIwFQ01FRFaU
+SwKGlGgVSw+GlIwDQUdFlEsChpSMCWF0dHJpYnV0ZZRLAIaUjANUQViUSwKGlGhGSwGGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaDJLAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="108" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'AGE x TAX', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="109" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="110" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'TOWN N x AGE x ZN x RM', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf7\x00\x00\x01(\x00\x00\x04r\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf7\x00\x00\x01D\x00\x00\x04r\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="111" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="112" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAA/wAAACQ
+AAAGUwAAAwMAAAP8AAAArAAABlMAAAMDAAAAAAAAAAAHAAAAA/wAAACsAAAGUwAAAwOUjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
+lIwETUVEVpRLAoaUaBVLAoaUjAVJTkRVU5RLAoaUaBVLA4aUjARDSEFTlEsBhpRoFUsEhpSMA05P
+WJRLAoaUaBVLBYaUjAdQVFJBVElPlEsChpRoFUsGhpSMAUKUSwKGlGgVSweGlIwFTFNUQVSUSwKG
+lGgVSwiGlIwFQ01FRFaUSwKGlGgVSwmGlIwDUkFElEsChpRoFUsKhpSMBVRSQUNUlEsChpRoFUsL
+hpSMA1RBWJRLAoaUaBVLDIaUjANESVOUSwKGlGgVSw2GlIwGVG93biBOlEsChpSMCWF0dHJpYnV0
+ZZRLAIaUjANBR0WUSwKGlGhASwGGlIwCWk6USwKGlGhASwKGlIwCUk2USwKGlGhASwOGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaClLAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="113" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'TOWN N x DIS x TAX x TRACT x AGE', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="114" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="115" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAA/wAAACQ
+AAAGUwAAAwMAAAP8AAAArAAABlMAAAMDAAAAAAAAAAAHAAAAA/wAAACsAAAGUwAAAwOUjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwDTE9OlEsChpSMCWF2YWlsYWJsZZRLAIaUjANMQVSUSwKGlGgVSwGG
+lIwETUVEVpRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAVJTkRVU5RLAoaUaBVLBIaUjARDSEFT
+lEsBhpRoFUsFhpSMA05PWJRLAoaUaBVLBoaUjAJSTZRLAoaUaBVLB4aUjAdQVFJBVElPlEsChpRo
+FUsIhpSMAUKUSwKGlGgVSwmGlIwFTFNUQVSUSwKGlGgVSwqGlIwFQ01FRFaUSwKGlGgVSwuGlIwD
+UkFElEsChpRoFUsMhpSMBlRvd24gTpRLAoaUjAlhdHRyaWJ1dGWUSwCGlIwDRElTlEsChpRoPUsB
+hpSMA1RBWJRLAoaUaD1LAoaUjAVUUkFDVJRLAoaUaD1LA4aUjANBR0WUSwKGlGg9SwSGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaC9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="116" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x8b\x00\x00\x00e\x00\x00\x05\xd4\x00\x00\x03\x99\x00\x00\x02\x8b\x00\x00\x00\x81\x00\x00\x05\xd4\x00\x00\x03\x99\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x02\x8b\x00\x00\x00\x81\x00\x00\x05\xd4\x00\x00\x03\x99', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': True, '__version__': 2}</properties>
+		<properties node_id="117" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAlwAAACq
+AAAEswAAAx0AAAJcAAAAxgAABLMAAAMdAAAAAAAAAAAHAAAAAlwAAADGAAAEswAAAx2UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwEQ0hBU5RLAYaUjAlhdmFpbGFibGWUSwCGlIwGVG93biBOlEsChpSM
+CWF0dHJpYnV0ZZRLAIaUjANESVOUSwKGlGgZSwGGlIwFVFJBQ1SUSwKGlGgZSwKGlIwDTE9OlEsC
+hpRoGUsDhpSMA0xBVJRLAoaUaBlLBIaUjARNRURWlEsChpRoGUsFhpSMAlpOlEsChpRoGUsGhpSM
+BUlORFVTlEsChpRoGUsHhpSMA05PWJRLAoaUaBlLCIaUjAJSTZRLAoaUaBlLCYaUjANBR0WUSwKG
+lGgZSwqGlIwDVEFYlEsChpRoGUsLhpSMB1BUUkFUSU+USwKGlGgZSwyGlIwBQpRLAoaUaBlLDYaU
+jAVMU1RBVJRLAoaUaBlLDoaUjAVDTUVEVpRLAoaUaBlLD4aUjANSQUSUSwKGlGgZSxCGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaD9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="118" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': '- CHAS', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="119" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="120" format="pickle">gASVJgEAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5
+lENCAdnQywADAAAAAAQTAAAAcgAABpAAAAQLAAAEEwAAAI4AAAaQAAAECwAAAAAAAAAABwAAAAQT
+AAAAjgAABpAAAAQLlIwJc2VsZWN0aW9ulF2USwdhjAtzaG93X3Njb3Jlc5SIjAtzY29yZV90YWJs
+ZZR9lIwMc2hvd25fc2NvcmVzlI+UKIwCUjKUjANNQUWUjARSTVNFlIwCQ0GUjANNU0WUjAdDLUlu
+ZGV4lIwDQVVDlIwJUHJlY2lzaW9ulIwGUmVjYWxslIwCRjGUkHOMC19fdmVyc2lvbl9flEsBjBBj
+b250ZXh0X3NldHRpbmdzlF2UdS4=
+</properties>
+		<properties node_id="121" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="122" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': 'all_variables', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="123" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAlwAAACq
+AAAEswAAAx0AAAJcAAAAxgAABLMAAAMdAAAAAAAAAAAHAAAAAlwAAADGAAAEswAAAx2UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwEQ0hBU5RLAYaUjAlhdmFpbGFibGWUSwCGlIwDTE9OlEsChpRoFUsB
+hpSMBlRvd24gTpRLAoaUjAlhdHRyaWJ1dGWUSwCGlIwDRElTlEsChpRoHEsBhpSMBVRSQUNUlEsC
+hpRoHEsChpSMA0xBVJRLAoaUaBxLA4aUjARNRURWlEsChpRoHEsEhpSMAlpOlEsChpRoHEsFhpSM
+BUlORFVTlEsChpRoHEsGhpSMA05PWJRLAoaUaBxLB4aUjAJSTZRLAoaUaBxLCIaUjANBR0WUSwKG
+lGgcSwmGlIwDVEFYlEsChpRoHEsKhpSMB1BUUkFUSU+USwKGlGgcSwuGlIwBQpRLAoaUaBxLDIaU
+jAVMU1RBVJRLAoaUaBxLDYaUjAVDTUVEVpRLAoaUaBxLDoaUjANSQUSUSwKGlGgcSw+GlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaD9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="124" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': '- CHAS, LON', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="125" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="126" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAlwAAACq
+AAAEswAAAx0AAAJcAAAAxgAABLMAAAMdAAAAAAAAAAAHAAAAAlwAAADGAAAEswAAAx2UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwEQ0hBU5RLAYaUjAlhdmFpbGFibGWUSwCGlIwDTE9OlEsChpRoFUsB
+hpSMA0xBVJRLAoaUaBVLAoaUjAZUb3duIE6USwKGlIwJYXR0cmlidXRllEsAhpSMA0RJU5RLAoaU
+aB9LAYaUjAVUUkFDVJRLAoaUaB9LAoaUjARNRURWlEsChpRoH0sDhpSMAlpOlEsChpRoH0sEhpSM
+BUlORFVTlEsChpRoH0sFhpSMA05PWJRLAoaUaB9LBoaUjAJSTZRLAoaUaB9LB4aUjANBR0WUSwKG
+lGgfSwiGlIwDVEFYlEsChpRoH0sJhpSMB1BUUkFUSU+USwKGlGgfSwqGlIwBQpRLAoaUaB9LC4aU
+jAVMU1RBVJRLAoaUaB9LDIaUjAVDTUVEVpRLAoaUaB9LDYaUjANSQUSUSwKGlGgfSw6GlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaD9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="127" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': '- CHAS, LON, LAT', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="128" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="129" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAlwAAACq
+AAAEswAAAx0AAAJcAAAAxgAABLMAAAMdAAAAAAAAAAAHAAAAAlwAAADGAAAEswAAAx2UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwEQ0hBU5RLAYaUjAlhdmFpbGFibGWUSwCGlIwDTE9OlEsChpRoFUsB
+hpSMA0xBVJRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAZUb3duIE6USwKGlIwJYXR0cmlidXRl
+lEsAhpSMA0RJU5RLAoaUaCJLAYaUjAVUUkFDVJRLAoaUaCJLAoaUjARNRURWlEsChpRoIksDhpSM
+BUlORFVTlEsChpRoIksEhpSMA05PWJRLAoaUaCJLBYaUjAJSTZRLAoaUaCJLBoaUjANBR0WUSwKG
+lGgiSweGlIwDVEFYlEsChpRoIksIhpSMB1BUUkFUSU+USwKGlGgiSwmGlIwBQpRLAoaUaCJLCoaU
+jAVMU1RBVJRLAoaUaCJLC4aUjAVDTUVEVpRLAoaUaCJLDIaUjANSQUSUSwKGlGgiSw2GlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaD9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="130" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': '- CHAS, LON, LAT, ZN', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="131" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
+		<properties node_id="132" format="pickle">gASVbAMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAABBoAAADJ
+AAAGcQAAAzwAAAQaAAAA5QAABnEAAAM8AAAAAAAAAAAHAAAABBoAAADlAAAGcQAAAzyUjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
+YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
+bl9yb2xlX2hpbnRzlH2UKIwEQ0hBU5RLAYaUjAlhdmFpbGFibGWUSwCGlIwDTE9OlEsChpRoFUsB
+hpSMA0xBVJRLAoaUaBVLAoaUjAJaTpRLAoaUaBVLA4aUjAJSTZRLAoaUaBVLBIaUjAZUb3duIE6U
+SwKGlIwJYXR0cmlidXRllEsAhpSMA0RJU5RLAoaUaCVLAYaUjAVUUkFDVJRLAoaUaCVLAoaUjARN
+RURWlEsChpRoJUsDhpSMBUlORFVTlEsChpRoJUsEhpSMA05PWJRLAoaUaCVLBYaUjANBR0WUSwKG
+lGglSwaGlIwDVEFYlEsChpRoJUsHhpSMB1BUUkFUSU+USwKGlGglSwiGlIwBQpRLAoaUaCVLCYaU
+jAVMU1RBVJRLAoaUaCVLCoaUjAVDTUVEVpRLAoaUaCVLC4aUjANSQUSUSwKGlGglSwyGlIwEQ1JJ
+TZRLAoaUjAVjbGFzc5RLAIaUjARUT1dOlEsDhpSMBG1ldGGUSwCGlHVK/v///4aUaAdLAXWMCmF0
+dHJpYnV0ZXOUfZQojAVUUkFDVJRLAowDTE9OlEsCjANMQVSUSwKMBE1FRFaUSwKMAlpOlEsCjAVJ
+TkRVU5RLAowEQ0hBU5RLAYwDTk9YlEsCjAJSTZRLAowDQUdFlEsCjANESVOUSwKMA1JBRJRLAowD
+VEFYlEsCjAdQVFJBVElPlEsCaD9LAowFTFNUQVSUSwKMBUNNRURWlEsCjARDUklNlEsCdYwFbWV0
+YXOUfZQojARUT1dOlEsDjAZUb3duIE6USwJ1dWJhdS4=
+</properties>
+		<properties node_id="133" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.49, 'learner_name': '- CHAS, LON, LAT, ZN, RM', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf8\x00\x00\x01(\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x02\xf8\x00\x00\x01D\x00\x00\x04s\x00\x00\x02\xd4', '__version__': 1}</properties>
+		<properties node_id="134" format="literal">{'compatibility_mode': False, 'controlAreaVisible': True, 'number_of_folds': 10, 'replacement': False, 'sampleSizeNumber': 1, 'sampleSizePercentage': 70, 'sampleSizeSqlPercentage': 0.1, 'sampleSizeSqlTime': 1, 'sampling_type': 0, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x035\x00\x00\x01\x19\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2\x00\x00\x00\x00\x02\x00\x00\x00\x07\x00\x00\x00\x035\x00\x00\x015\x00\x00\x047\x00\x00\x02\xe2', 'selectedFold': 1, 'sql_dl': False, 'stratify': False, 'use_seed': True, '__version__': 2}</properties>
 	</node_properties>
 	<session_state>
 		<window_groups />
